@@ -3,6 +3,7 @@ Archivos referentes a los retos de AI Engineer Core
 
 # Reto: Prompt engineering para modelos basados en inteligencia artificial
 Sprint 1:
+
 Planifica:
   Backlog (PDF)
   Roadmap (PDF)
