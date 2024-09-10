@@ -2,12 +2,10 @@
 Archivos referentes a los retos de AI Engineer Core
 
 # Reto: Prompt engineering para modelos basados en inteligencia artificial
-Sprint 1:
 
-Planifica:
-  Backlog (PDF)
-  Roadmap (PDF)
+Nombre completo: Pamela Selene Villalobos González
+NAO ID: 3182
+Fecha: Septiembre 2024
 
-Desarrolla:
-  Guiones Texto a Texto (txt de las conversaciones y png de las capturas de pantalla)
-  Guiones Texto a Imagen (txt de las conversaciones y png de las capturas de pantalla)
+Entregables de Sprint 1 
+
