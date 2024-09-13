@@ -7,5 +7,5 @@ Nombre completo: Pamela Selene Villalobos González
 NAO ID: 3182
 Fecha: Septiembre 2024
 
-Entregables de Sprint 1 
+Entregables de Sprint 1 & 2
 
